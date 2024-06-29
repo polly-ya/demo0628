@@ -5,7 +5,7 @@ git config --global user.email "xxx"
 git merge xxx
 demo1,demo2
 
-git clone xxx
+git clone xxx 克隆
 git pull 获取最新的代码（确保版本一致）
 
 修改
